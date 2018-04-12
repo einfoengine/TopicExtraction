@@ -1,0 +1,1 @@
+This is a project on TOPIC EXTRACTION, to determine what a sentence is talking about? This is a Limkokwing University of Creative Technology project, entirely designed and developed by Mohammad Shanewaz Al Maruf as the major project of BSEM.
